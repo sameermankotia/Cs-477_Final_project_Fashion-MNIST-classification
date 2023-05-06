@@ -2,7 +2,7 @@
 ## Fashion-MNIST Image Classification with CNN
 This code demonstrates the use of Convolutional Neural Network (CNN) for image classification on the Fashion-MNIST dataset.
 
-## Requirements
+## Requirements-:
 TensorFlow
 Numpy
 Matplotlib
