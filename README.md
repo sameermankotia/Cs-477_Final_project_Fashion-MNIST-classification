@@ -26,3 +26,4 @@ Print accuracy for each category
 
 The file contains two models ie CNN and NN model which have different accuracies ie. CNN around 90-91% wheras NN have accurracy of 88%.
 
+Feel Free to make changes by pulling request and use this model. Donot forget to leave a star. 
