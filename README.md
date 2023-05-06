@@ -2,7 +2,7 @@
 ## Fashion-MNIST Image Classification with CNN
 This code demonstrates the use of Convolutional Neural Network (CNN) for image classification on the Fashion-MNIST dataset.
 
-## Requirements-:
+## Requirements:
 -TensorFlow
 -Numpy
 -Matplotlib
@@ -10,7 +10,7 @@ This code demonstrates the use of Convolutional Neural Network (CNN) for image c
 -Seaborn
 -Pandas
 
-## Usage
+## Usage:
 -Load the Fashion-MNIST dataset
 -Normalize the pixel values
 -Define the CNN model
@@ -28,7 +28,7 @@ This code demonstrates the use of Convolutional Neural Network (CNN) for image c
 
 -Feel Free to make changes by pulling request and use this model. Donot forget to leave a star. 
 
-# MIT License
+# MIT License:
 
 Copyright (c) [2023] [Sameer Mankotia]
 
